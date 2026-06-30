@@ -4,3 +4,6 @@ __pycache__/
 dist/
 build/
 .venv/
+
+# Cloned reference repo (official Dart project)
+reqable-mcp-server/

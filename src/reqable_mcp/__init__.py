@@ -1,4 +1,4 @@
-"""Reqable Capture Reader MCP Server."""
+"""Reqable MCP Server - Python port of the official reqable-mcp-server."""
 
 from .server import main
 
